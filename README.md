@@ -1,4 +1,4 @@
-# Roobee Farm
+# Farm
 
  Сreate a new file called .env and set the values in it.
 
